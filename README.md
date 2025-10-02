@@ -22,7 +22,7 @@ After studying BeamJS in depth, I’m convinced that it’s not just another bac
 
 Here’s where I believe I can contribute real, immediate impact:
 
-### 1️⃣ A Great Developer Experience (DX): Starting with beam-cli
+### 1️⃣ A Great Developer Experience (DX): Starting with beam-cli🛠️
 
 A framework succeeds when developers enjoy using it.
 
